@@ -1,0 +1,42 @@
+[
+  {
+    "name": "SkinWinter,ไม้",
+    "price": 400.0,
+    "emoji": "🪄"
+  },
+  {
+    "name": "SkinStarMagic,ไม้",
+    "price": 500.0,
+    "emoji": "🪄"
+  },
+  {
+    "name": "SkinPoker,ไม้",
+    "price": 500.0,
+    "emoji": "🪄"
+  },
+  {
+    "name": "SkinDragon,ไม้",
+    "price": 500.0,
+    "emoji": "🪄"
+  },
+  {
+    "name": "SkinPoker,มีด",
+    "price": 300.0,
+    "emoji": "⚔️"
+  },
+  {
+    "name": "SkinDragon,มีด",
+    "price": 300.0,
+    "emoji": "⚔️"
+  },
+  {
+    "name": "SkinPoker,ฉลาม",
+    "price": 300.0,
+    "emoji": "🪮"
+  },
+  {
+    "name": "แฟชั่นBunny-1set",
+    "price": 1300.0,
+    "emoji": "💃"
+  }
+]
